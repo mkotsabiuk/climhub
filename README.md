@@ -4,6 +4,8 @@ ReactJS application that allows you to find weather forecast all over the world.
 
 ## How it works?
 
+Add name of city and country in required fields and press button "Get weather"
+
 ![Example of using](https://github.com/kotsabiukmv98/climhub/blob/master/src/assets/example-of-using%20.gif)
 
 
