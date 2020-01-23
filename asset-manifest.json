@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/climhub/static/css/main.a2e27934.chunk.css",
-    "main.js": "/climhub/static/js/main.8f388d56.chunk.js",
-    "main.js.map": "/climhub/static/js/main.8f388d56.chunk.js.map",
+    "main.js": "/climhub/static/js/main.0c5ecc1c.chunk.js",
+    "main.js.map": "/climhub/static/js/main.0c5ecc1c.chunk.js.map",
     "runtime-main.js": "/climhub/static/js/runtime-main.9c96ac9f.js",
     "runtime-main.js.map": "/climhub/static/js/runtime-main.9c96ac9f.js.map",
     "static/css/2.540d54db.chunk.css": "/climhub/static/css/2.540d54db.chunk.css",
     "static/js/2.85968467.chunk.js": "/climhub/static/js/2.85968467.chunk.js",
     "static/js/2.85968467.chunk.js.map": "/climhub/static/js/2.85968467.chunk.js.map",
     "index.html": "/climhub/index.html",
-    "precache-manifest.9e3ffdf5d7687ce91785c04129e37481.js": "/climhub/precache-manifest.9e3ffdf5d7687ce91785c04129e37481.js",
+    "precache-manifest.15e0cbd483d7f661e133ce84c4fd7b21.js": "/climhub/precache-manifest.15e0cbd483d7f661e133ce84c4fd7b21.js",
     "service-worker.js": "/climhub/service-worker.js",
     "static/css/2.540d54db.chunk.css.map": "/climhub/static/css/2.540d54db.chunk.css.map",
     "static/css/main.a2e27934.chunk.css.map": "/climhub/static/css/main.a2e27934.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.540d54db.chunk.css",
     "static/js/2.85968467.chunk.js",
     "static/css/main.a2e27934.chunk.css",
-    "static/js/main.8f388d56.chunk.js"
+    "static/js/main.0c5ecc1c.chunk.js"
   ]
 }
