@@ -4,7 +4,7 @@ ReactJS application that allows you to find weather forecast all over the world.
 
 ## How it works?
 
-![Example of using]()
+![Example of using](https://github.com/kotsabiukmv98/climhub/blob/master/src/assets/example-of-using%20.gif)
 
 
 ## Available Scripts
