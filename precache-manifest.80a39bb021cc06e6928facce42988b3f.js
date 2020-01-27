@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8732cd1ddbe22442eb53d12b133fb1aa",
+    "revision": "90289c714d2fa2713c149a42497c074d",
     "url": "/climhub/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/climhub/static/css/2.540d54db.chunk.css"
   },
   {
-    "revision": "99cd5b82dae408b696ed",
-    "url": "/climhub/static/css/main.a2e27934.chunk.css"
+    "revision": "70fa499d593d0bb6c715",
+    "url": "/climhub/static/css/main.8ceace5a.chunk.css"
   },
   {
     "revision": "fad8ad06311f71aec7aa",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/climhub/static/js/2.85968467.chunk.js.LICENSE"
   },
   {
-    "revision": "99cd5b82dae408b696ed",
+    "revision": "70fa499d593d0bb6c715",
     "url": "/climhub/static/js/main.0c5ecc1c.chunk.js"
   },
   {
