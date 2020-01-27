@@ -12,6 +12,9 @@ form {
   margin-top: 3rem;
   color: white !important;
 }
+form .btn {
+  color: #115B6E;
+}
 form .btn:focus {
   box-shadow: none !important;
   background-color: #ffc107;
