@@ -1,6 +1,6 @@
 # ClimHub
 
-ReactJS application that allows you to find weather forecast all over the world. You can try it here - https://kotsabiukmv98.github.io/climhub
+ReactJS application that allows you to find weather forecast all over the world. You can try it here - https://mkotsabiuk.github.io/climhub
 
 ## How it works?
 
